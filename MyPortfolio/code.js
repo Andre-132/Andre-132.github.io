@@ -3,6 +3,6 @@ function navigateToPage() {
     console.log("Hello");
 }
 function goToPage() {
-    window.location.href = "Portfolio.html";
+    window.location.href = "index.html";
     console.log("Hello Go To Page");
 }
