@@ -1,0 +1,16 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;      
+    margin: 0; 
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content{
+    text-align: center;  
+    background-color: white;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
